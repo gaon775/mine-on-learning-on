@@ -1,0 +1,6 @@
+{
+  "name": "마음 ON, 배움 ON",
+  "description": "수업 전·후 학생 정서 변화 추적 및 형성평가 성취도 상관관계 AI 분석 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
